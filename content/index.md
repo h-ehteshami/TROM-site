@@ -1,4 +1,4 @@
-# LESSON NAME
+# TROM: Thermal Conductivity from Molecular Dynamic Simulations
 
 Intro
 
