@@ -11,7 +11,10 @@ Highlight
 
 
 ## Credits
-If you use the package or any part of it, please cite the paper below; thank you in advance!
+If you use the package or any part of it, please cite the paper below; thank you!
+> [!IMPORTANT]
+> H. Ehteshami, P. Hasnip, "*TROM: thermal conductivity from Molecular Dynamic Simulation*", to be submited.
+
 
 ## License
 This instructional material is made available under the [Creative Commons Attribution license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).  The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode). You are free to:
