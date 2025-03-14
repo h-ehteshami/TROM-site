@@ -14,17 +14,13 @@ Highlight
 If you use the package or any part of it, please cite the paper below; thank you in advance!
 
 ## License
-This instructional material is made available under the [Creative
-Commons Attribution license (CC-BY-4.0)](<https://creativecommons.org/licenses/by/4.0/).  The following is a human-readable summary of (and not a substitute for) the [full legal
-text of the CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode). You are
-free to:
+This instructional material is made available under the [Creative Commons Attribution license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).  The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode). You are free to:
 
 - **share** - copy and redistribute the material in any medium or format
 - **adapt** - remix, transform, and build upon the material for any purpose,
   even commercially.
 
-The licensor cannot revoke these freedoms as long as you follow these
-license terms:
+The licensor cannot revoke these freedoms as long as you follow these license terms:
 
 - **Attribution** - You must give appropriate credit (mentioning that your work is derived from work that is Copyright (c) Hossein Ehteshami (and individual contributors) and, where practical, linking to provide a link to [the license](https://creativecommons.org/licenses/by/4.0/), and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **No additional restrictions** - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
@@ -44,7 +40,7 @@ episode.md
 :caption: Reference
 :maxdepth: 1
 
-quick-reference
+References
 guide
 ```
 
