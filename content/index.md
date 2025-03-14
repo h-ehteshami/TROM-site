@@ -12,7 +12,7 @@ Highlight
 
 ## Credits
 If you use the package or any part of it, please cite the paper below; thank you!
-> [!IMPORTANT] H. Ehteshami, P. Hasnip, "*TROM: thermal conductivity from Molecular Dynamic Simulation*", to be submited.
+> H. Ehteshami, P. Hasnip, "*TROM: thermal conductivity from Molecular Dynamic Simulation*", to be submited.
 
 
 ## License
