@@ -2,7 +2,7 @@
 
 Intro
 
-:::{highlight}
+:::{highlight} Highlight
 Let's see if I can see how it looks!
 :::
 
