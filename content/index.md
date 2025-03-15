@@ -2,13 +2,17 @@
 
 Intro
 
-:::{highlight} Highlight
+::: highlight
 Let's see if I can see how it looks!
 :::
 
-:::{prereq}
+::: prereq
 Highlight
 :::
+
+::: warning
+Warning
+::: 
 
 
 ## What this package is for?
