@@ -37,7 +37,7 @@ Citation
 --------
 If you use the software or any part of it please cite the paper below; thank you!
 
-.. warning::
+.. important::
    H. Ehteshami, P. Hasnip, *"TROM: Thermal conductivity from molecular dynamic simulations"*, to be submitted.
 
 
