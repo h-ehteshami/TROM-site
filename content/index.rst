@@ -1,15 +1,10 @@
 TROM
 ====
-
 This package calculates thermal conductivity from molecular dynamic simulations.
 
 
 .. prereq::
-
    prerequisites
-
-
-
 
 
 .. toctree::
