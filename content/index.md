@@ -2,15 +2,15 @@
 
 Intro
 
-::: highlight
+:::highlight
 Let's see if I can see how it looks!
 :::
 
-::: prereq
+:::{prereq}
 Highlight
 :::
 
-::: warning
+:::warning
 Warning
 ::: 
 
