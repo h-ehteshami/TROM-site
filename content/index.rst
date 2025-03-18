@@ -6,10 +6,10 @@ This package calculates thermal conductivity from molecular dynamic simulations.
 .. prereq::
    prerequisites
 
-
 .. toctree::
    :maxdepth: 1
    :caption: Contents
+
    install
    theory
    examples
@@ -17,6 +17,7 @@ This package calculates thermal conductivity from molecular dynamic simulations.
 .. toctree::
    :maxdepth: 1
    :caption: Reference
+
    functions
    refs
 
@@ -61,7 +62,7 @@ With the understanding that:
 
 - No warranties are given. The license may not give you all of the permissions
   necessary for your intended use. For example, other rights such as
-  publicity, privacy, or moral rights may limit how you use the material.
+  publicity, privacy, or moral rights may limit how you use the package.
 
 
 Examples
