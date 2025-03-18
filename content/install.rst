@@ -2,3 +2,11 @@
 
 Installation guide
 ==================
+
+
+Using PIP
+---------
+
+
+Cloning the repository
+----------------------
