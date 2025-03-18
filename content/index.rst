@@ -10,21 +10,15 @@ This package calculates thermal conductivity from molecular dynamic simulations.
 .. toctree::
    :maxdepth: 1
    :caption: Contents
-
+   install
+   theory
+   example
 
 .. toctree::
    :maxdepth: 1
    :caption: Reference
-
-   reference
-   guide
-
-.. csv-table::
-   :widths: auto
-   :delim: ;
-
-   20 min ; :doc:`filename`
-
+   functions
+   refs
 
 .. _learner-personas:
    I want to see how this looks!
