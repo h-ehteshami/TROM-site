@@ -12,7 +12,7 @@ This package calculates thermal conductivity from molecular dynamic simulations.
    :caption: Contents
    install
    theory
-   example
+   examples
 
 .. toctree::
    :maxdepth: 1
@@ -67,7 +67,5 @@ With the understanding that:
 Examples
 ^^^^^^^^
 
-Except where otherwise noted, the examples 
-provided with this repository are made available under the `OSI
-<http://opensource.org/>`_-approved
-`MIT license <https://opensource.org/licenses/mit-license.html>`__.
+Except where otherwise noted, the examples codes (under example directy) provided with this repository are made available under the `OSI
+<http://opensource.org/>`_-approved `MIT license <https://opensource.org/licenses/mit-license.html>`_.
