@@ -8,6 +8,7 @@ This package calculates thermal conductivity from molecular dynamic simulations.
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :caption: Contents
 
    install
@@ -16,6 +17,7 @@ This package calculates thermal conductivity from molecular dynamic simulations.
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :caption: Reference
 
    functions
